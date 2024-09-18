@@ -369,6 +369,7 @@ hostname
 hplip
 hplip-data
 html2text
+htop
 humanity-icon-theme
 hunspell-en-us
 hwdata
@@ -428,6 +429,7 @@ libaccountsservice0
 libacl1
 libadwaita-1-0
 libaio1t64
+libalut-dev
 libao4
 libao-common
 libaom3
@@ -1118,6 +1120,7 @@ libsasl2-modules
 libsasl2-modules-db
 libsbc1
 libsdl2-2.0-0
+libsdl2-dev
 libseccomp2
 libsecret-1-0
 libsecret-common
@@ -1816,9 +1819,11 @@ uuid-runtime
 va-driver-all
 vim-common
 vim-tiny
+virtualbox-qt
 vpn-unlimited
 wamerican
 warpinator
+warp-terminal
 wbritish
 webapp-manager
 webp-pixbuf-loader
