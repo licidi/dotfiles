@@ -1632,6 +1632,7 @@ python3-distro
 python3-eyed3
 python3-filelock
 python3-filetype
+python3-full
 python3-gdbm
 python3-gi
 python3-gi-cairo
@@ -1667,6 +1668,7 @@ python3-pam
 python3-parted
 python3-pexpect
 python3-pil
+python3-pip
 python3-pkg-resources
 python3-png
 python3-problem-report
@@ -1730,6 +1732,7 @@ rhythmbox-data
 rhythmbox-plugins
 rhythmbox-plugin-tray-icon
 rpcsvc-proto
+rpm
 rsync
 rsyslog
 rtkit
@@ -1824,6 +1827,7 @@ user-setup
 util-linux
 uuid-runtime
 va-driver-all
+vim
 vim-common
 vim-tiny
 virtualbox-qt
