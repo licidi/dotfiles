@@ -1517,7 +1517,7 @@ network-manager-pptp-gnome
 nfs-common
 nftables
 ntfs-3g
-nvidia-driver-535
+nvidia-driver-550
 nvidia-prime-applet
 ocl-icd-libopencl1
 odt2txt
