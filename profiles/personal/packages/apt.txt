@@ -1921,4 +1921,5 @@ zfsutils-linux
 zfs-zed
 zip
 zlib1g
+zsh
 zstd
