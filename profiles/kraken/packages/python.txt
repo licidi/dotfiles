@@ -86,6 +86,7 @@ soupsieve==2.5
 systemd-python==235
 tinycss2==1.2.1
 tldextract==3.1.2
+tmdbsimple==2.9.1
 typing_extensions==4.10.0
 ubuntu-drivers-common==0.0.0
 ufw==0.36.2
