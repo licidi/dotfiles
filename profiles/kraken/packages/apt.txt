@@ -331,7 +331,6 @@ grep
 groff-base
 grub2-common
 grub-common
-grub-customizer
 grub-efi-amd64-bin
 grub-efi-amd64-signed
 grub-gfxpayload-lists
@@ -1794,8 +1793,6 @@ telnet
 thermald
 thingy
 thunderbird
-thunderbird-locale-en
-thunderbird-locale-en-us
 time
 timeshift
 tnftp

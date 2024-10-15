@@ -1,1 +1,1 @@
-alias news='python3 ~/VScodium/python/news_requests.py'
+alias news='python3 ~/vscode/news_auto.py'
