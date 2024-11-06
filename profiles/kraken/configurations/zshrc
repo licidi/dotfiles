@@ -1,1 +1,2 @@
 alias news='python3 ~/vscode/news_auto.py'
+alias move='python3 /home/licidi/vscode/fileMover.py'
